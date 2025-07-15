@@ -2,4 +2,3 @@ streamlit
 pandas
 mygene
 zeep
-tempfile
