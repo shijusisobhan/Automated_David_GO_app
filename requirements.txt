@@ -1,0 +1,6 @@
+streamlit
+pandas
+os
+mygene
+zeep
+tempfile
